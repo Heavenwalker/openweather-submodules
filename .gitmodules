@@ -1,0 +1,6 @@
+[submodule "openweather-node"]
+	path = openweather-node
+	url = git@github.com:Heavenwalker/techsaloniki-consumer.git
+[submodule "openweather-quarkus"]
+	path = openweather-quarkus
+	url = git@github.com:Heavenwalker/openweather.git
